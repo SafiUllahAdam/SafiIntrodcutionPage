@@ -47,13 +47,18 @@ export default function Home() {
 
       <footer>
         <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
         >
-          Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel" className={styles.logo} />
+           {' '}
+          <img src="/WhatsApp.svg.png" alt="My Whatsapp" className={styles.logo} />
         </a>
+        <p>+92 318 7696133</p>
+        <a
+        >
+           {' '}
+          <img src="/Gmail.png" alt="My Email" className={styles.logo} />
+        </a>
+        <div><p>   .  safiullahf20@nutech.edu.pk</p></div>
+        
       </footer>
 
       <style jsx>{`
